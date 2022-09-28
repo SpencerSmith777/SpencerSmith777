@@ -1,0 +1,500 @@
+The Best Corsair,Europlay,1905,Pinball
+Tasty Samba,Inder,1905,Pinball
+Topaz,Inder,1905,Pinball
+Up Away,Inder,1905,Pinball
+Yale,Inder,1905,Pinball
+World Cup '90,Mr. Game,1905,Pinball
+The Raid,Playmatic,1905,Pinball
+Trailer,Playmatic,1905,Pinball
+Zira,Playmatic,1905,Pinball
+Viper Night Drivin',Sega Pinball,1905,Pinball
+Total Nuclear Annihilation,Spooky Pinball,1905,Pinball
+Transformers,Stern Pinball,1905,Pinball
+Tron: Legacy,Stern Pinball,1905,Pinball
+X-Men,Stern Pinball,1905,Pinball
+Zarza,Taito of Brazil,1905,Pinball
+Ten Stars,Zaccaria,1905,Pinball
+Ten Up,Zaccaria,1905,Pinball
+Baffle Ball,Gottlieb,1931,Pinball
+Bank-A-Ball,J. F. Linck Corp.,1932,Pinball
+Juggle Ball,Rock-ola,1932,Pinball
+Tivoli JR.,American Sales,1933,Pinball
+Sprint,Bally,1937,Pinball
+Phantom,Pacific Manufacturing Corporation,1937,Pinball
+Conquest,Exhibit,1939,Pinball
+Dixie,Chicago Coin,1940,Pinball
+Laura,Williams,1945,Pinball
+Humpty Dumpty,Gottlieb,1947,Pinball
+Ali Baba,Gottlieb,1948,Pinball
+Double-Shuffle,Gottlieb,1949,Pinball
+Be-Bop,Exhibit Supply Co,1950,Pinball
+Canasta,Genco,1950,Pinball
+Double-Feature,Gottlieb,1950,Pinball
+Knock Out,Gottlieb,1950,Pinball
+Sea Jockeys,Williams,1951,Pinball
+Arabian Knights,Gottlieb,1953,Pinball
+Dealer,Williams,1953,Pinball
+Grand Champion,Williams,1953,Pinball
+Daisy May,Gottlieb,1954,Pinball
+Deluxe Jumbo,Gottlieb,1954,Pinball
+Diamond Lill,Gottlieb,1954,Pinball
+Dragonette,Gottlieb,1954,Pinball
+Spitfire,Williams,1954,Pinball
+Duette,Gottlieb,1955,Pinball
+Can Can,Williams,1955,Pinball
+Circus Wagon,Williams,1955,Pinball
+Derby Day,Gottlieb,1956,Pinball
+Fun House,Williams,1956,Pinball
+Ace High,Gottlieb,1957,Pinball
+Continental Cafe,Gottlieb,1957,Pinball
+Royal Flush,Gottlieb,1957,Pinball
+Arrowhead,Williams,1957,Pinball
+Big Inning,Bally,1958,Pinball
+Flying Aces,Genco,1958,Pinball
+Criss Cross,Gottlieb,1958,Pinball
+Double Action,Gottlieb,1958,Pinball
+Picnic,Gottlieb,1958,Pinball
+Casino,Williams,1958,Pinball
+Club House,Williams,1958,Pinball
+Crossword,Williams,1959,Pinball
+Deluxe Pinch-Hitter,Williams,1959,Pinball
+Captain Kidd,Gottlieb,1960,Pinball
+Flipper,Gottlieb,1960,Pinball
+Texan,Gottlieb,1960,Pinball
+Darts,Williams,1960,Pinball
+Deluxe Official Baseball,Williams,1960,Pinball
+Big Casino,Gottlieb,1961,Pinball
+Flipper Fair,Gottlieb,1961,Pinball
+Flipper Parade,Gottlieb,1961,Pinball
+Flying Circus,Gottlieb,1961,Pinball
+Bowling Flipper,Rally Play Co.,1961,Pinball
+Add-A-Ball,Williams,1961,Pinball
+Batting Champ,Williams,1961,Pinball
+Bo Bo,Williams,1961,Pinball
+Caravelle,Williams,1961,Pinball
+Deluxe Batting Champ,Williams,1961,Pinball
+Double Barrel,Williams,1961,Pinball
+Flipper Clown,Gottlieb,1962,Pinball
+Flipper Cowboy,Gottlieb,1962,Pinball
+Olympics,Gottlieb,1962,Pinball
+Tropic Isle,Gottlieb,1962,Pinball
+Beach Games,Rally Play Co.,1962,Pinball
+Coquette,Williams,1962,Pinball
+Cross Country,Bally,1963,Pinball
+Fire Cracker,Chicago Coin,1963,Pinball
+Flying Chariots,Gottlieb,1963,Pinball
+Gigi,Gottlieb,1963,Pinball
+Beat the Clock,Williams,1963,Pinball
+Big Inning (Chicago Model),Williams,1963,Pinball
+Big Inning (New York Model),Williams,1963,Pinball
+Swing Time,Williams,1963,Pinball
+Big Day,Bally,1964,Pinball
+Bongo,Bally,1964,Pinball
+Bus Stop,Bally,1964,Pinball
+Bonanza,Gottlieb,1964,Pinball
+Bowling Queen,Gottlieb,1964,Pinball
+Zig Zag,Williams,1964,Pinball
+Aces High,Bally,1965,Pinball
+Trio,Bally,1965,Pinball
+Buckaroo,Gottlieb,1965,Pinball
+Dodge City,Gottlieb,1965,Pinball
+Flipper Pool,Gottlieb,1965,Pinball
+Kings & Queens,Gottlieb,1965,Pinball
+Curling,Rally Play Co.,1965,Pinball
+Bowl A Strike,Williams,1965,Pinball
+Double Play,Williams,1965,Pinball
+Driving Range,Williams,1965,Pinball
+Eager Beaver,Williams,1965,Pinball
+Teacher's Pet,Williams,1965,Pinball
+Capersville,Bally,1966,Pinball
+Central Park,Gottlieb,1966,Pinball
+Cross Town,Gottlieb,1966,Pinball
+Nairobi,Maresa,1966,Pinball
+A-Go-Go,Williams,1966,Pinball
+Big League,Williams,1966,Pinball
+Big Strike,Williams,1966,Pinball
+Casanova,Williams,1966,Pinball
+Diamond Jack,Gottlieb,1967,Pinball
+King of Diamonds,Gottlieb,1967,Pinball
+King Ball,Maresa,1967,Pinball
+Crown Soccer Special,Taito of Brazil,1967,Pinball
+Apollo,Williams,1967,Pinball
+Arctic Gun,Williams,1967,Pinball
+Magic City,Williams,1967,Pinball
+Shangri-La,Williams,1967,Pinball
+Big Wheel,Bally,1968,Pinball
+Domino,Gottlieb,1968,Pinball
+Fun Fair,Gottlieb,1968,Pinball
+Fun Land,Gottlieb,1968,Pinball
+Tivoli,Gottlieb,1968,Pinball
+Caravan,Playmatic,1968,Pinball
+Racers,Playmatic,1968,Pinball
+Comics,Rally Play Co.,1968,Pinball
+Student Prince,Williams,1968,Pinball
+Cosmos,Bally,1969,Pinball
+On Beam,Bally,1969,Pinball
+Airport,Gottlieb,1969,Pinball
+College Queens,Gottlieb,1969,Pinball
+Road Race,Gottlieb,1969,Pinball
+Target Pool,Gottlieb,1969,Pinball
+Hit Line,Playmatic,1969,Pinball
+Poker,Playmatic,1969,Pinball
+Serenade,Playmatic,1969,Pinball
+Expo,Williams,1969,Pinball
+Paddock,Williams,1969,Pinball
+Smart Set,Williams,1969,Pinball
+Big Valley,Bally,1970,Pinball
+Bowl-O,Bally,1970,Pinball
+Camelot,Bally,1970,Pinball
+Big Flipper,Chicago Coin,1970,Pinball
+Cowboy,Chicago Coin,1970,Pinball
+Aquarius,Gottlieb,1970,Pinball
+Card Trix,Gottlieb,1970,Pinball
+Crescendo,Gottlieb,1970,Pinball
+Flip a Card,Gottlieb,1970,Pinball
+Mini Cycle,Gottlieb,1970,Pinball
+Snow Queen,Gottlieb,1970,Pinball
+Aces & Kings,Williams,1970,Pinball
+Four Million B.C.,Bally,1971,Pinball
+Galaxy-Game,Computer Recreations,1971,Arcade
+Astro,Gottlieb,1971,Pinball
+Card King,Gottlieb,1971,Pinball
+Dimension,Gottlieb,1971,Pinball
+Drop-A-Card,Gottlieb,1971,Pinball
+Extra Inning,Gottlieb,1971,Pinball
+Roller Coaster,Gottlieb,1971,Pinball
+Hearts Gain,Inder,1971,Pinball
+Computer Space,Nutting Associates,1971,Arcade
+Klondike,Williams,1971,Pinball
+Stardust,Williams,1971,Pinball
+Yukon,Williams,1971,Pinball
+Zodiac,Williams,1971,Pinball
+Pong,Atari,1972,Arcade
+Fireball,Bally,1972,Pinball
+Space Time,Bally,1972,Pinball
+Flying Carpet,Gottlieb,1972,Pinball
+King Kool,Gottlieb,1972,Pinball
+Outer Space,Gottlieb,1972,Pinball
+Dakota,Maresa,1972,Pinball
+Computer Space Ball,Nutting Associates,1972,Arcade
+Crazy Clock,Sega Pinball,1972,Pinball
+Big Star,Williams,1972,Pinball
+Fan-Tas-Tic,Williams,1972,Pinball
+Granada,Williams,1972,Pinball
+Spanish Eyes,Williams,1972,Pinball
+Gotcha,Atari,1973,Arcade
+Pong Doubles,Atari,1973,Arcade
+Space Race,Atari,1973,Arcade
+Amigo,Bally,1973,Pinball
+Hi-Lo Ace,Bally,1973,Pinball
+Odds & Evens,Bally,1973,Pinball
+Hee Haw,Chicago Coin,1973,Pinball
+Hot Shot,Gottlieb,1973,Pinball
+Jack In The Box,Gottlieb,1973,Pinball
+Jumping Jack,Gottlieb,1973,Pinball
+King Pin,Gottlieb,1973,Pinball
+Pro-Football,Gottlieb,1973,Pinball
+Ten-Up,Gottlieb,1973,Pinball
+Top Hand,Gottlieb,1973,Pinball
+Seven Winner,Inder,1973,Pinball
+Computer Space (2 Player),Nutting Associates,1973,Arcade
+Hockey,RamTek,1973,Arcade
+Astro Race,Taito,1973,Arcade
+Gulfstream,Williams,1973,Pinball
+Ambush,Williams Electronics,1973,Arcade
+Elimination,Atari,1974,Arcade
+Gran Trak 10,Atari,1974,Arcade
+Gran Trak 20,Atari,1974,Arcade
+Pin-Pong,Atari,1974,Arcade
+Pursuit,Atari,1974,Arcade
+Qwak!,Atari,1974,Arcade
+Rebound,Atari,1974,Arcade
+Super Pong,Atari,1974,Arcade
+Tank (Atari),Atari,1974,Arcade
+Big Show,Bally,1974,Pinball
+Boomerang,Bally,1974,Pinball
+Champ,Bally,1974,Pinball
+Delta Queen,Bally,1974,Pinball
+Big Shot,Gottlieb,1974,Pinball
+Capt. Card,Gottlieb,1974,Pinball
+Duotron,Gottlieb,1974,Pinball
+Far Out,Gottlieb,1974,Pinball
+Free Fall,Gottlieb,1974,Pinball
+Magnotron,Gottlieb,1974,Pinball
+Out of Sight,Gottlieb,1974,Pinball
+Sky Jump,Gottlieb,1974,Pinball
+Top Card,Gottlieb,1974,Pinball
+Fifteen,Inder,1974,Pinball
+Super Bowling,Inder,1974,Pinball
+Wild Gunman,Nintendo,1974,Arcade
+Gunner,Playmatic,1974,Pinball
+Joker,Playmatic,1974,Pinball
+Jolly Ride,Playmatic,1974,Pinball
+Players Choice,PMC Electronics,1974,Arcade
+Clean Sweep,RamTek,1974,Arcade
+Baseball,Seeburg Corp,1974,Arcade
+Astro-Flite,Sega Pinball,1974,Pinball
+Speed Race (Taito),Taito,1974,Arcade
+Dealer's Choice,Williams,1974,Pinball
+Skylab,Williams,1974,Pinball
+Star Pool,Williams,1974,Pinball
+Street Burners,Allied Leisure,1975,Arcade
+Futsball,Allied Leisure Industries,1975,Arcade
+Anti-Aircraft,Atari,1975,Arcade
+Crash 'N Score,Atari,1975,Arcade
+Goal IV,Atari,1975,Arcade
+Hi-way,Atari,1975,Arcade
+Indy 800,Atari,1975,Arcade
+Jet Fighter,Atari,1975,Arcade
+Shark Jaws,Atari,1975,Arcade
+Steeplechase,Atari,1975,Arcade
+Tank II,Atari,1975,Arcade
+Air Aces,Bally,1975,Pinball
+Blue Ribbon,Bally,1975,Pinball
+Knockout,Bally,1975,Pinball
+Gun Fight,Bally Midway,1975,Arcade
+Blue Max,Chicago Coin,1975,Pinball
+Avenger,Electra Games,1975,Arcade
+Destruction Derby,Exidy,1975,Arcade
+Take Five,Fun Games,1975,Arcade
+Abra Ca Dabra,Gottlieb,1975,Pinball
+El Dorado,Gottlieb,1975,Pinball
+Fast Draw,Gottlieb,1975,Pinball
+Lucky Strike,Gottlieb,1975,Pinball
+Soccer,Gottlieb,1975,Pinball
+Spin Out,Gottlieb,1975,Pinball
+Spirit of 76,Gottlieb,1975,Pinball
+Super Soccer,Gottlieb,1975,Pinball
+Top Score,Gottlieb,1975,Pinball
+Black & Reed,Inder,1975,Pinball
+Big Horse,Maresa,1975,Pinball
+The Spirit of '76,Mirco Games Inc.,1975,Pinball
+Champion,Nordamatic,1975,Pinball
+Apache,Playmatic,1975,Pinball
+Black Flag,Playmatic,1975,Pinball
+Caddie,Playmatic,1975,Pinball
+Ducks,Playmatic,1975,Pinball
+Fairy,Playmatic,1975,Pinball
+Tam-Tam,Playmatic,1975,Pinball
+Trivia (Ramtek),Ramtek,1975,Arcade
+Check,Recel S.A.,1975,Pinball
+Check Mate,Recel S.A.,1975,Pinball
+Big Ben,Williams,1975,Pinball
+Black Gold,Williams,1975,Pinball
+Satin Doll,Williams,1975,Pinball
+Lucky Fruit,Zaccaria,1975,Pinball
+Red Show,Zaccaria,1975,Pinball
+Big Hunt,A.M.I.,1976,Pinball
+Ace,Allied Leisure,1976,Arcade
+Breakout,Atari,1976,Arcade
+Cannonball,Atari,1976,Arcade
+Cops N Robbers,Atari,1976,Arcade
+Flyball,Atari,1976,Arcade
+Indy 4,Atari,1976,Arcade
+LeMans,Atari,1976,Arcade
+Night Driver,Atari,1976,Arcade
+Outlaw,Atari,1976,Arcade
+Quiz Show,Atari,1976,Arcade
+Sprint 2,Atari,1976,Arcade
+Stunt Cycle,Atari,1976,Arcade
+Tank 8,Atari,1976,Arcade
+Aladin's Castle,Bally,1976,Pinball
+Flip Flop,Bally,1976,Pinball
+Freedom,Bally,1976,Pinball
+Hokus Pokus,Bally,1976,Pinball
+Night Rider,Bally,1976,Pinball
+Old Chicago,Bally,1976,Pinball
+The Amazing Maze Game,Bally Midway,1976,Arcade
+Tornado Baseball,Bally Midway,1976,Arcade
+Cinema,Chicago Coin,1976,Pinball
+Alley Rally,Exidy,1976,Arcade
+Death Race,Exidy,1976,Arcade
+BiPlane,Fun Games Inc.,1976,Arcade
+BiPlane 4,Fun Games Inc.,1976,Arcade
+Crocket,Giorgio Massiniero,1976,Pinball
+Buccaneer,Gottlieb,1976,Pinball
+Canada Dry,Gottlieb,1976,Pinball
+Card Whiz,Gottlieb,1976,Pinball
+Pioneer,Gottlieb,1976,Pinball
+Ship Ahoy,Gottlieb,1976,Pinball
+Sure Shot,Gottlieb,1976,Pinball
+Surf Champ,Gottlieb,1976,Pinball
+Surfer,Gottlieb,1976,Pinball
+Target Alpha,Gottlieb,1976,Pinball
+Volley,Gottlieb,1976,Pinball
+CoMotion,Gremlin,1976,Arcade
+Blockade,Gremlin Industries,1976,Arcade
+Keops,Inder,1976,Pinball
+Screech,Inder,1976,Pinball
+Laramie,Maresa,1976,Pinball
+Bigfoot Bonkers,Meadows Games,1976,Arcade
+Ckidzo,Meadows Games,1976,Arcade
+Cobra Gunship,Meadows Games,1976,Arcade
+Lazer Command,Meadows Games,1976,Arcade
+Datsun 280 ZZZAP,Midway,1976,Arcade
+Sea Wolf,Midway,1976,Arcade
+Black Jack (Mirco Games),Mirco Games,1976,Arcade
+Conquest 200,Playmatic,1976,Pinball
+Fandango,Playmatic,1976,Pinball
+Fantasy,Playmatic,1976,Pinball
+Fiesta,Playmatic,1976,Pinball
+New World,Playmatic,1976,Pinball
+Barricade,RamTeK,1976,Arcade
+Rock'n Bark,Sega,1976,Arcade
+Big Together,Sega Pinball,1976,Pinball
+Cannes,Sega Pinball,1976,Pinball
+Casino Royale,Sega Pinball,1976,Pinball
+Fonz,Sega-Gremlin,1976,Arcade
+Faces,Sonic,1976,Pinball
+Aztec,Williams,1976,Pinball
+Blue Chip,Williams,1976,Pinball
+Space Mission,Williams,1976,Pinball
+Space Odyssey,Williams,1976,Pinball
+Moon Flight,Zaccaria,1976,Pinball
+Cosmic Pinball,(Briarwood) Brunswick,1977,Pinball
+Minesweeper,Amutech,1977,Arcade
+Airborne Avenger,Atari,1977,Pinball
+Canyon Bomber,Atari,1977,Arcade
+Destroyer (Atari),Atari,1977,Arcade
+Dominos,Atari,1977,Arcade
+Drag Race,Atari,1977,Arcade
+Pool Shark,Atari,1977,Arcade
+Sprint 4,Atari,1977,Arcade
+Sprint 8,Atari,1977,Arcade
+Starship 1,Atari,1977,Arcade
+Super Bug,Atari,1977,Arcade
+Triple Hunt,Atari,1977,Arcade
+Big Foot,Bally,1977,Pinball
+Eight Ball,Bally,1977,Pinball
+Evel Knievel,Bally,1977,Pinball
+Mata Hari,Bally,1977,Pinball
+Checkmate,Bally Midway,1977,Arcade
+Guided Missile,Bally Midway,1977,Arcade
+Casino 2000,Bill Port,1977,Pinball
+Rawhide,Chicago Coin / Stern Electronics,1977,Pinball
+Embargo,Cinematronics,1977,Arcade
+Space Wars,Cinematronics,1977,Arcade
+Car Polo,Exidy,1977,Arcade
+Big Hit,Gottlieb,1977,Pinball
+Bronco,Gottlieb,1977,Pinball
+Centigrade 37,Gottlieb,1977,Pinball
+Cleopatra,Gottlieb,1977,Pinball
+Gridiron,Gottlieb,1977,Pinball
+Jacks Open,Gottlieb,1977,Pinball
+Jungle Princess,Gottlieb,1977,Pinball
+Jungle Queen,Gottlieb,1977,Pinball
+Team One,Gottlieb,1977,Pinball
+Safari,Gremlin / Taito,1977,Arcade
+Depthcharge,Gremlin Industries,1977,Arcade
+Hustle,Gremlin Industries,1977,Arcade
+Shamrock,Inder,1977,Pinball
+Inferno (Meadows Games),Meadows Games,1977,Arcade
+Meadows Lanes,Meadows Games,1977,Arcade
+Boot Hill,Midway,1977,Arcade
+Desert Gun,Midway,1977,Arcade
+Laguna Racer,Midway,1977,Arcade
+M-4,Midway,1977,Arcade
+Card Castle,Nordamatic,1977,Pinball
+Carnival,Playmatic,1977,Pinball
+Hangers,Playmatic,1977,Pinball
+Rio,Playmatic,1977,Pinball
+The 30's,Playmatic,1977,Pinball
+Desert Patrol,Project Support Engineering,1977,Arcade
+M-79 Ambush,Ramtek,1977,Arcade
+Star Cruiser,Ramtek,1977,Arcade
+Millionaire,Sega,1977,Pinball
+Big Kick,Sega Pinball,1977,Pinball
+Star Explorer,Sentinel Inc.,1977,Pinball
+Stingray,Stern Electronics,1977,Pinball
+Barricade II,Taito,1977,Arcade
+Bazooka,Taito,1977,Arcade
+Missile-X,Taito,1977,Arcade
+T.T Block,Taito,1977,Arcade
+Big Top,Wico,1977,Pinball
+Argosy,Williams,1977,Pinball
+Big Deal,Williams,1977,Pinball
+Wild Card,Williams,1977,Pinball
+Aerobatics,Zaccaria,1977,Pinball
+Combat,Zaccaria,1977,Pinball
+Universe,Zaccaria,1977,Pinball
+Atari Football,Atari,1978,Arcade
+Avalanche,Atari,1978,Arcade
+Fire Truck,Atari,1978,Arcade
+Middle Earth,Atari,1978,Pinball
+Orbit,Atari,1978,Arcade
+Sky Raider,Atari,1978,Arcade
+Skydiver,Atari,1978,Arcade
+Sprint 1,Atari,1978,Arcade
+Super Breakout,Atari,1978,Arcade
+Ultra Tank,Atari,1978,Arcade
+Black Jack,Bally,1978,Pinball
+Lost World,Bally,1978,Pinball
+Strikes and Spares,Bally,1978,Pinball
+The Six Million Dollar Man,Bally,1978,Pinball
+Dog Patch,Bally Midway,1978,Arcade
+Cosmic Wars,Coffee Mat,1978,Pinball
+Crazy Balls,EGS,1978,Arcade
+Black Velvet,Game Plan,1978,Pinball
+Chuck-A-Luck,Game Plan,1978,Pinball
+Blue Note,Gottlieb,1978,Pinball
+Charlie's Angels,Gottlieb,1978,Pinball
+Close Encounters of the Third Kind,Gottlieb,1978,Pinball
+Eye of the Tiger,Gottlieb,1978,Pinball
+Joker Poker,Gottlieb,1978,Pinball
+Sinbad,Gottlieb,1978,Pinball
+Blasto,Gremlin Industries,1978,Arcade
+Hot & Cold,Inder,1978,Pinball
+Alaska,Interflip S.A.,1978,Pinball
+Cherokee,Interflip S.A.,1978,Pinball
+Block Game,Konami,1978,Arcade
+Space King,Leijac,1978,Arcade
+Dead Eye (Meadows Games),Meadows Games,1978,Arcade
+Gypsy Juggler,Meadows Games,1978,Arcade
+Sea Wolf II,Midway,1978,Arcade
+Shuffleboard,Midway,1978,Arcade
+Space Walk,Midway,1978,Arcade
+Claybuster,Model Racing,1978,Arcade
+Gee Bee,Namco,1978,Arcade
+Computer Othello,Nintendo R&D1,1978,Arcade
+Big Town,Playmatic,1978,Pinball
+Chance,Playmatic,1978,Pinball
+Last Lap,Playmatic,1978,Pinball
+Space Gambler,Playmatic,1978,Pinball
+Game Tree,Project Support Engineering,1978,Arcade
+Crazy Race,Recel S.A.,1978,Pinball
+Space Ship,Sega,1978,Arcade
+Bird Man,Sega Pinball,1978,Pinball
+Frogs,Sega / Gremlin,1978,Arcade
+Ozma Wars,SNK,1978,Arcade
+Lectronamo,Stern Electronics,1978,Pinball
+Memory Lane,Stern Electronics,1978,Pinball
+Nugent,Stern Electronics,1978,Pinball
+Stars,Stern Electronics,1978,Pinball
+Wild Fyre,Stern Electronics,1978,Pinball
+G.T. Block Challenger,Sun Electronics,1978,Arcade
+Blue Shark,Taito,1978,Arcade
+Astro Shooter,Tomy,1978,Pinball
+Contact,Williams,1978,Pinball
+Disco Fever,Williams,1978,Pinball
+Phoenix,Williams,1978,Pinball
+Future World,Zaccaria,1978,Pinball
+House of Diamonds,Zaccaria,1978,Pinball
+Queen's Castle,Zaccaria,1978,Pinball
+Strike,Zaccaria,1978,Pinball
+Winter Sports,Zaccaria,1978,Pinball
+Clay Shoot,Allied Leisure,1979,Arcade
+Black Sheep Squadron,Astro Games,1979,Pinball
+Asteroids,Atari,1979,Arcade
+Atari Baseball,Atari,1979,Arcade
+Atari Basketball,Atari,1979,Arcade
+Atari Soccer,Atari,1979,Arcade
+Hercules,Atari,1979,Pinball
+Lunar Lander,Atari,1979,Arcade
+Monte Carlo,Atari,1979,Arcade
+Solar War,Atari,1979,Arcade
+Subs,Atari,1979,Arcade
+Superman,Atari,1979,Pinball
+Tunnel Hunt,Atari,1979,Arcade
+Video Pinball,Atari,1979,Arcade
+Dolly Parton,Bally,1979,Pinball
+Future Spa,Bally,1979,Pinball
